@@ -1,0 +1,6 @@
+{
+  "name": "White FF Sensi Bot",
+  "description": "White FF Sensi Bot developed by Prime Mehedi Moder. Sensitivity calculator, game optimizer, DPI recommendation, and HUD customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
